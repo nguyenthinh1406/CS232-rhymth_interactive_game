@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+venv_mediapipe/
+.env
+
+# VS Code
+.vscode/
